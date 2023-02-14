@@ -21,7 +21,7 @@ pip3 install plot3d
 ```
 The user can also modify the script to generate other meshes (such as using meshio).
 
-## Example Use
+## Example
 The simplest command is to use the default setting
 ```
 python3 Omesh.py 

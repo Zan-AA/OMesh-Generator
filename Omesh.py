@@ -5,7 +5,7 @@
 # 	The grid is generated using Karman-Trefftz conformal transformation.
 # 	
 #	This code reproduces the result from the paper.
-#   Vassberg, J. C., & Jameson, A. (2010). 
+#	Vassberg, J. C., & Jameson, A. (2010). 
 #	In pursuit of grid convergence for two-dimensional Euler solutions. Journal of Aircraft, 47(4), 1152-1166.
 #
 #	Equation reference is shown in the comments.

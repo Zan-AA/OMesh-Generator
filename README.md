@@ -44,5 +44,20 @@ Here, we show two figures that resemble with the figures (Fig.1 and Fig. 2) show
 
 ### A 32x32 O-Mesh with close-up view near the airfoil.
 <p align="center">
-  <img width="640" height="480" src="https://github.com/Zan-AA/OMesh-Generator/blob/main/Fig2.png">
+  <img width="640" height="480" src="https://github.com/Zan-AA/OMesh-Generator/blob/main/32x32.png">
+</p>
+
+### A 64x64 O-Mesh with close-up view near the airfoil.
+<p align="center">
+  <img width="640" height="480" src="https://github.com/Zan-AA/OMesh-Generator/blob/main/64x64.png">
+</p>
+
+### A 128x128 O-Mesh with close-up view near the airfoil.
+<p align="center">
+  <img width="640" height="480" src="https://github.com/Zan-AA/OMesh-Generator/blob/main/128x128.png">
+</p>
+
+### A 256x256 O-Mesh with close-up view near the airfoil.
+<p align="center">
+  <img width="640" height="480" src="https://github.com/Zan-AA/OMesh-Generator/blob/main/256x256.png">
 </p>

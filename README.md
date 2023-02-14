@@ -39,7 +39,7 @@ python3 Omesh.py -NC 64 -s 1
 Users are directed to the `CommandLineParser` class in the script for details of the input arguments.
 
 ## Result
-Here, we show two figures that resemble with the figures (Fig.1 and Fig. 2) shown in the paper.
+Here, we show few figures that resemble with the figures shown in the paper (See Fig.1 and Fig. 3-6 in the paper).
 ![Fig1](https://github.com/Zan-AA/OMesh-Generator/blob/main/Fig1.png)
 
 ### A 32x32 O-Mesh with close-up view near the airfoil.

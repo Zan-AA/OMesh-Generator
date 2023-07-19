@@ -36,8 +36,9 @@ z_2 = 0.0079337
 
 zeta_1 = 0.77043505
 zeta_2 = 0.24642903
-# zeta_c = (zeta_1 + zeta_2) / 2
-zeta_c = 0.4859156 # Eq.(12)
+zeta_LE = 0.20139626
+zeta_TE = zeta_1
+zeta_c = (zeta_LE + zeta_TE) / 2 # Eq.(12)
 
 class CommandLineParser:
 	def __init__(self):
